@@ -60,15 +60,47 @@ Below is a formula I worked with using an if statement to categorize the age int
 =IF(G2>4000,"Long",IF(G2>=1001,"Medium",IF(G2<=1000,"Short","invalid")))
 
 ## Results/Findings
-Summarize the key findings of your analysis:
-- Include visuals like graphs or charts
-- Highlight any significant patterns or trends
+
+● The majority of customers are "Satisfied," but a significant number remain "Neutral or Dissatisfied," particularly in certain service areas.
+
+● High satisfaction is seen in the check-in process, indicating it is one of the best-performing areas.
+
+● Ease of online booking also has strong satisfaction scores, showing digital services are functioning well.
+
+● Baggage handling shows a large proportion of dissatisfaction, indicating a major pain point for customers.
+
+● Lower satisfaction levels for food and drink indicate that in-flight meals and beverages are not meeting customer expectations.
+
+● Many customers are dissatisfied with the punctuality of flights, showing delays are a frequent issue.
+
+● Male passengers show slightly higher satisfaction than female passengers, but the difference is not significant.
+
+● Business travelers are more satisfied than personal travelers, likely due to different service expectations or needs.
+
+● Returning customers have higher satisfaction levels compared to new customers.
+
+● Business class passengers are the most satisfied, while Economy Plus passengers show the lowest satisfaction levels.
+
+● Passengers on longer flights tend to report higher satisfaction compared to those on shorter flights.
+
+● Delays in departure and arrival times are strongly correlated with customer dissatisfaction.
+
 
 ## Recommendations
-Based on your findings, provide actionable recommendations. This could include:
-- Potential improvements
-- Next steps for further analysis
-- Suggestions for decision-makers
+
+- Focus on resolving issues related to lost, delayed, or damaged baggage to boost customer satisfaction.
+
+- Reassess the quality and variety of food and beverages offered to improve satisfaction during flights.
+
+- Optimize scheduling and operations to reduce departure and arrival delays. Improve communication and compensation for delays to mitigate customer frustration.
+
+- Reevaluate the services and benefits provided in Economy Plus to align with customer expectations and justify the added cost.
+
+- Identify the needs of personal (leisure) travelers and enhance services tailored for this segment to close the satisfaction gap with business travelers.
+
+- Maintain the high standards in check-in and ease of online booking to sustain positive customer experiences.
+
+- Since shorter flights report lower satisfaction, consider enhancing services or offering more perks on these routes to elevate the overall experience.
 
 ## Limitations
 
