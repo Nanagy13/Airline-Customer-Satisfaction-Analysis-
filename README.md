@@ -1,8 +1,6 @@
 # Airline-Customer-Satisfaction-Analysis-
 
 
-Dano Airlines customer satisfaction Analysis
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
