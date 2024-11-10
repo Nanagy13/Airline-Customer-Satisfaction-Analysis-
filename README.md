@@ -61,6 +61,8 @@ Below is a formula I worked with using an if statement to categorize the age int
 
 ## Results/Findings
 
+![Alt](Screenshot_20241109_134603.jpg)
+
 ● The majority of customers are "Satisfied," but a significant number remain "Neutral or Dissatisfied," particularly in certain service areas.
 
 ● High satisfaction is seen in the check-in process, indicating it is one of the best-performing areas.
